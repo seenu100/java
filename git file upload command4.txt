@@ -1,0 +1,10 @@
+ touch 1 2 3 4 5 6
+   59  ls
+   60  git init
+   61  git status
+   62  git add *
+   63  git status
+   64  git commit -m " 6 files "
+   65  git log
+   66  git remote add origin https://github.com/seenu100/icic-ssh.git
+   67  git push -u origin master
